@@ -25,35 +25,29 @@
 
 ### Newbie
 
-- [Profile card component](https://github.com/Aman-sgz/profile-card)
-- [Social proof section](https://github.com/Aman-sgz/social-proof-section)
-- [Single price grid component](https://github.com/Aman-sgz/single-price-grid-component)
-- [Four Card Feature Section](https://github.com/Aman-sgz/four-card-feature-section)
-- [Huddle landing page](https://github.com/Aman-sgz/Huddle-landing-page)
-- [FAQ accordion card](https://github.com/Aman-sgz/faq-accordion-card-main)
-- Article preview component
-- Coding bootcamp testimonials slider
-- Base apparel coming soon page
-- Intro component with sign-up form
-- Ping single column coming soon page
-- Pod request access landing page
-- 3-column preview card component
-- Meet landing page
-- Stats preview card component
+- [Huddle landing page](https://github.com/RokuFSD/huddle-landing-page)
+- [3-column preview card](https://github.com/RokuFSD/3-column-preview)
+- [Social proof section](https://github.com/RokuFSD/social-proof-section)
+- [Profile card component](https://github.com/RokuFSD/profile-card-component)
+- [FAQ accordion card](https://github.com/RokuFSD/faq-accordion-card)
+- [Article preview component](https://github.com/RokuFSD/article-preview-component)
+- [Base apparel coming soon page](https://github.com/RokuFSD/base-apparel-soon)
 
 
 ---
 ### Junior
 
-- [Pricing Component With Toggle](https://github.com/Aman-sgz/Pricing-Component-With-Toggle)
+- [Testimonials grid section](https://github.com/RokuFSD/testimonials-grid-section)
+- [Time tracking dashboard](https://github.com/RokuFSD/time-tracking-dashboard)
+- [Tip calculator app](https://github.com/RokuFSD/tip-calculator)
 
 ---
 
 ###  Contact
 
-- Github Repositories [@RokuFSD](https://github.com/Aman-sgz/)
+- Github Repositories [@RokuFSD](https://github.com/RokuFSD/)
 
-- Frontend Mentor [@RokuFSD](https://www.frontendmentor.io/profile/Aman-sgz)
+- Frontend Mentor [@RokuFSD](https://www.frontendmentor.io/profile/RokuFSD/)
 
 ---
 <div align="right">
